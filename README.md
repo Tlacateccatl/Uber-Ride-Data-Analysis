@@ -13,8 +13,10 @@ This project requires Python 3 and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
+- [GeoPandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [Basemap](http://matplotlib.org/basemap/)
+- [shapely.geometry](http://matplotlib.org/basemap/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
