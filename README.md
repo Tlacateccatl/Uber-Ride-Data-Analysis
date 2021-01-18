@@ -1,4 +1,4 @@
-# UberRide2014
+# Uber Ride Analysis
 Analysis of Uber Ride Data of 2014
 ***
 
